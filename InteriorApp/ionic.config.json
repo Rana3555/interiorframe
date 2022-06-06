@@ -1,0 +1,7 @@
+{
+  "name": "InteriorApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
